@@ -1,0 +1,7 @@
+C:\Users\Sameer\source\repos\oop inheritance\bin\Debug\oop inheritance.exe.config
+C:\Users\Sameer\source\repos\oop inheritance\bin\Debug\oop inheritance.exe
+C:\Users\Sameer\source\repos\oop inheritance\bin\Debug\oop inheritance.pdb
+C:\Users\Sameer\source\repos\oop inheritance\obj\Debug\oop inheritance.csproj.AssemblyReference.cache
+C:\Users\Sameer\source\repos\oop inheritance\obj\Debug\oop inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Sameer\source\repos\oop inheritance\obj\Debug\oop inheritance.exe
+C:\Users\Sameer\source\repos\oop inheritance\obj\Debug\oop inheritance.pdb
